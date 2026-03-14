@@ -1,4 +1,4 @@
----
+just---
 title: Contributing
 description: How to contribute to Railpack
 ---
